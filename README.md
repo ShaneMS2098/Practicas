@@ -1,5 +1,6 @@
 # Practicas
-Etapa de planeación e identificación del público objetivo de mi aplicación móvil.
+Introducción Launch X
+Etapa de planeación e identificación del público objetivo.
 
 Datos principales:
 Página para staf de abogados.
